@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- VisualV 1.0.250 -->
+<!-- DO NOT DISTRIBUTE WITHOUT PERMISSION OF THE CREATORS! -->
+<!-- Modified for NaturalVision Remastered -->
+<time_data version="1.000000" mode="dynamic">
+  <suninfo sun_roll="122" sun_yaw="0"/>
+  <mooninfo moon_roll="-10" moon_wobble_freq="2" moon_wobble_amp="0.2" moon_wobble_offset="0.375"/>
+  <sample name="00:00" hour="0" duration="4" uw_tc_mod="underwater"/>
+  <sample name="05:00" hour="5" duration="0" uw_tc_mod="underwater"/>
+  <sample name="06:00" hour="6" duration="0" uw_tc_mod="underwater"/>
+  <sample name="07:00" hour="7" duration="0" uw_tc_mod="underwater"/>
+  <sample name="09:00" hour="8" duration="0" uw_tc_mod="underwater"/>
+  <sample name="12:00" hour="9" duration="0" uw_tc_mod="underwater"/>
+  <sample name="16:00" hour="13" duration="0" uw_tc_mod="underwater"/>
+  <sample name="17:00" hour="17" duration="0" uw_tc_mod="underwater"/>
+  <sample name="18:00" hour="18" duration="0" uw_tc_mod="underwater"/>
+  <sample name="19:00" hour="19" duration="0" uw_tc_mod="underwater"/>
+  <sample name="20:00" hour="20" duration="0" uw_tc_mod="underwater"/>
+  <sample name="21:00" hour="21" duration="0" uw_tc_mod="underwater"/>
+  <sample name="22:00" hour="22" duration="0" uw_tc_mod="underwater"/>
+  <region name="URBAN"/>
+</time_data>

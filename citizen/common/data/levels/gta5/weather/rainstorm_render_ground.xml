@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Modified for NaturalVision Remastered -->
+<!-- DO NOT DISTRIBUTE WITHOUT PERMISSION OF THE CREATOR! -->
+<rage__ptxgpuDropRenderSettings>
+  <textureRowsColsStartEnd x="5.000000" y="5.000000" z="8.000000" w="15.000000" />
+  <textureAnimRateScaleOverLifeStart2End2 x="1.000000" y="1.000000" z="16.000000" w="23.000000" />
+  <sizeMinMax x="0.060000" y="0.060000" z="0.060000" w="0.060000" />
+  <colour x="0.850000" y="0.850000" z="0.850000" w="0.550000" />
+  <fadeInOut x="0.050000" y="0.050000" />
+  <fadeNearFar x="1.100000" y="40.000000" />
+  <fadeGrdOffLoHi x="0.000000" y="-15.000000" z="0.000000" w="100.000000" />
+  <rotSpeedMinMax x="0.000000" y="0.000000" />
+  <directionalZOffsetMinMax x="-0.400000" y="1.000000" z="1.000000" />
+  <dirVelAddCamSpeedMinMaxMult x="0.000000" y="0.000000" z="0.000000" />
+  <edgeSoftness value="45.000000" />
+  <particleColorPercentage value="0.000100" />
+  <backgroundDistortionVisibilityPercentage value="0.000000" />
+  <backgroundDistortionAlphaBooster value="1.000000" />
+  <backgroundDistortionAmount value="1.500000" />
+  <backgroundDistortionBlurLevel value="0" />
+  <localLightsMultiplier value="0.400000" />
+  <directionalLightShadowAmount value="0.000000" />
+</rage__ptxgpuDropRenderSettings>
