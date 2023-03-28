@@ -53,6 +53,10 @@ Okay So Go To Your OpenIV And Drag Everything In ```(Drag This Files In The Gta5
 
 ![2](https://cdn.discordapp.com/attachments/1074646053497864252/1075070792322273340/image.png)
 
+![3](https://cdn.discordapp.com/attachments/1021700112776437760/1050153805666340894/image_2.png)
+
+![3](https://cdn.discordapp.com/attachments/1021700112776437760/1075103390780100699/image.png)
+
 ## Installation For SoundPack 
 Okay So Go To Your GTAV Files ```GrandTheftAutoV\x64\audio\sfx``` And Replace Every File In ```sfx```
 
