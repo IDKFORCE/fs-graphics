@@ -1,7 +1,7 @@
 # FS-Graphics
 FiveM Graphics Made By (⸸♱♥IDK_FORCE♥♱⸸#7611) (FiveM Graphics)
 
-- ⚙️・Join My Discord And Open Ticket To Give Me Suggestions Or Report A Bug
+- ⚙️・Join My Discord And Open Ticket To Ask Support or Give Me Suggestions Or Report A Bug
 
 ```My Discord```
 - [Discord](https://discord.gg/6kJ5ubDEWE)
@@ -88,10 +88,7 @@ Okay So Go To Your GTAV Files ```GrandTheftAutoV\x64\audio\sfx``` And Replace Ev
 - [Winrar](https://www.win-rar.com/start.html?&L=0)
 
 ## Disclaimer
-- Do Not Edit Or Reupload Anything Without My Permission
-
-![FUCKMEWITHMYDMCA](https://cdn.discordapp.com/attachments/688435303240957992/1017852264737677342/5559087.png)
-
+- Please reupload <3
 
 
 ## Remember If You 🌟Star This Repository It Will Keep You Notify For Future Updates
