@@ -70,6 +70,7 @@ Okay So Go To Your GTAV Files ```GrandTheftAutoV\x64\audio\sfx``` And Replace Ev
 
 ## ServerSide Graphics
  Simple Graphics quick Drag And Drop And Run
+![server](https://github.com/IDKFORCE/fs-serversidegraphics/)
 
 # Known Bug That Happen ClientSide
  Random Bloom (Client)
@@ -163,6 +164,7 @@ Está bien, vaya a sus archivos GTAV '''GrandTheftAutoV  x64  audio  sfx ''' y r
 
 ## Gráficos ServerSide
  Gráficos simples rápido arrastrar y soltar y ejecutar
+![server](https://github.com/IDKFORCE/fs-serversidegraphics/)
 
 # Error conocido que sucede ClientSide
  Random Bloom (Cliente)
